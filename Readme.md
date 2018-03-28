@@ -10,5 +10,5 @@ Analysis #2: Looking at the pie chart for total fares, rural and suburban areas 
 
 Analysis #3: If you look at the bubble plot, you'll notice the size of the bubbles corresponds to the number of drivers, but as the price per ride goes up, one might think that there would be more drivers in that area, according to the supply curve theory (that as prices go up, supply goes up). So one might conclude that the small bubble at nearly 50 dollars would cause people living at that town would become drivers, but the fact is there was no increase in the number of drivers, which leads me to believe that most people in that area might have a higher oppurtunity cost, and hence will not drive. In other words, that area maybe have a higher income bracket.
 
-![](//images/Bubblechart5.png)
-![](//images/Piechart5.png)
+![](images/Bubblechart5.png)
+![](images/Piechart5.png)
