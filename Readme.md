@@ -12,3 +12,4 @@ Analysis #3: If you look at the bubble plot, you'll notice the size of the bubbl
 
 ![](images/Bubblechart5.png)
 ![](images/Piechart5.png)
+![](images/Capture.png)
